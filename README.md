@@ -79,7 +79,7 @@ In this step, you need to choose a config for training your dataset. You can fin
  environment/lib/python3.9/site-packages/mmdet/datasets/coco.py
 You have to change class names in this file to consider to your dataset.
 
-Finally, in knet_s3_r50_fpn_1x_coco needs to change num_classes option.  My dataset had 18 classes, so I changed this option from 80 to 18.
+Finally, in knet_s3_r50_fpn_1x_coco needs to change the num_classes option due to your dataset.
 
 
 Finally, you can start training using command below : 

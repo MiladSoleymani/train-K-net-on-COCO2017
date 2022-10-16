@@ -98,8 +98,6 @@ PYTHONPATH=‘.’:‘K-Net/’ mim test mmdet K-Net/configs/det/knet/knet_s3_r5
 
 ## Some outputs : 
 
-![car4](https://user-images.githubusercontent.com/78655282/196054551-6b5f7a71-8bba-4d64-b14e-c3a7936bb8e2.jpg)
-
 
 ![car5](https://user-images.githubusercontent.com/78655282/196054564-087852f0-e59f-438a-b63e-98c8beb6d240.jpg)
 
